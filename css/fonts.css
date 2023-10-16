@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* 한글폰트  */
+/* Noto+Sans+KR */@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
+/* Noto+Serif+KR */@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600;700&display=swap');
+/* NanumSquare */@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+/* 영어폰트 /
+/Open+Sans */ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+/* Exo+2 */ @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600;700;800;900&display=swap'); 
+/* pacifico */ @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/* Orbitron */ @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+/* playfair Display */ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+ 
